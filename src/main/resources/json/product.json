@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Memoria ram 32",
+        "price": 375
+    },
+    {
+        "id": 2,
+        "name": "Cpu Intel Core I7",
+        "price": 1562
+    },
+    {
+        "id": 3,
+        "name": "Monito LG 28P",
+        "price": 1062
+    },
+    {
+        "id": 4,
+        "name": "Teclado Gamer",
+        "price": 531
+    },
+    {
+        "id": 5,
+        "name": "Play Station 5",
+        "price": 859
+    },
+    {
+        "id": 6,
+        "name": "Gameboy Advance",
+        "price": 250
+    },
+    {
+        "id": 7,
+        "name": "Nintendo DS",
+        "price": 300
+    }
+]
